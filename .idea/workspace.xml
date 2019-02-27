@@ -2,25 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c7193109-6ac4-4ea0-a8db-7c8cef1017e9" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_2_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/csv/effCodePrastic/reference/SoftReferenceHouse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/csv/effCodePrastic/reference/SoftReferenceWhenIdle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/csv/entity/SCElementEntity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/jsonANDxml/LocalException/PageException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/jsonANDxml/LocalException/PageTitleException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/jsonANDxml/LocalException/ParameterException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/jsonANDxml/LocalException/SCPandaException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/jsonANDxml/LocalException/XMLException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/jsonANDxml/util/OSMatcher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/jsonANDxml/util/SCElementEntity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/jsonANDxml/util/SCJsonReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/jsonANDxml/util/SCPageXML2JSON.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/jsonANDxml/util/SCXmlUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/jsonANDxml/util/TextSearchFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/jsonANDxml/util/operationItem.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/csv-loader.iml" beforeDir="false" afterPath="$PROJECT_DIR$/csv-loader.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/jsonANDxml/util/SCPageXML2JSON.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/jsonANDxml/util/SCPageXML2JSON.java" afterDir="false" />
     </list>
     <ignored path="csv-loader.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -42,19 +25,19 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="462">
+            <state relative-caret-position="1290">
               <caret line="86" column="21" selection-start-line="86" selection-start-column="21" selection-end-line="86" selection-end-column="21" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/jsonANDxml/util/SCPageXML2JSON.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="3" column="26" lean-forward="true" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+            <state relative-caret-position="15">
+              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
               <folding>
-                <element signature="e#3357#5324#1" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -63,24 +46,20 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/csv/effCodePrastic/reference/SoftReferenceHouse.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="248">
+            <state relative-caret-position="390">
               <caret line="28" selection-start-line="28" selection-end-line="28" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#252#259#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/csv/effCodePrastic/reference/SoftReferenceWhenIdle.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="368">
-              <caret line="34" column="1" lean-forward="true" selection-start-line="34" selection-start-column="1" selection-end-line="34" selection-end-column="1" />
-              <folding>
-                <element signature="e#254#261#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="510">
+              <caret line="34" column="1" selection-start-line="34" selection-start-column="1" selection-end-line="34" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -88,7 +67,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_192.jdk/Contents/Home/src.zip!/java/lang/ref/SoftReference.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-442">
+            <state relative-caret-position="600">
               <caret line="63" column="13" selection-start-line="63" selection-start-column="13" selection-end-line="63" selection-end-column="13" />
             </state>
           </provider>
@@ -102,7 +81,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/jsonANDxml/util/SCJsonReader.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1319">
+            <state relative-caret-position="1215">
               <caret line="90" column="40" selection-start-line="90" selection-start-column="40" selection-end-line="90" selection-end-column="40" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -114,27 +93,10 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/jsonANDxml/util/SCXmlUtils.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="525">
+            <state relative-caret-position="390">
               <caret line="39" column="26" selection-start-line="39" selection-start-column="26" selection-end-line="39" selection-end-column="26" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#817#842#0" expanded="true" />
-                <element signature="e#2282#2305#0" expanded="true" />
-                <element signature="e#5373#5388#0" expanded="true" />
-                <element signature="e#8067#8092#0" expanded="true" />
-                <element signature="e#8155#8180#0" expanded="true" />
-                <element signature="e#10316#10341#0" expanded="true" />
-                <element signature="e#10404#10429#0" expanded="true" />
-                <element signature="e#12058#12081#0" expanded="true" />
-                <element signature="e#12142#12165#0" expanded="true" />
-                <element signature="e#18657#18682#0" expanded="true" />
-                <element signature="e#21737#21762#0" expanded="true" />
-                <element signature="e#25271#25296#0" expanded="true" />
-                <element signature="e#28355#28380#0" expanded="true" />
-                <element signature="e#31658#31683#0" expanded="true" />
-                <element signature="e#34871#34896#0" expanded="true" />
-                <element signature="e#38215#38240#0" expanded="true" />
-                <element signature="e#58750#58765#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -213,9 +175,9 @@
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/jsonANDxml/util/SCJsonReader.java" />
         <option value="$PROJECT_DIR$/src/main/java/jsonANDxml/util/TextSearchFile.java" />
-        <option value="$PROJECT_DIR$/src/main/java/jsonANDxml/util/SCPageXML2JSON.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/csv/effCodePrastic/reference/SoftReferenceHouse.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/csv/effCodePrastic/reference/SoftReferenceWhenIdle.java" />
+        <option value="$PROJECT_DIR$/src/main/java/jsonANDxml/util/SCPageXML2JSON.java" />
       </list>
     </option>
   </component>
@@ -233,9 +195,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="118" />
     <option name="y" value="23" />
-    <option name="width" value="1680" />
-    <option name="height" value="951" />
+    <option name="width" value="1562" />
+    <option name="height" value="949" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -243,6 +206,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -293,15 +257,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="csv" type="462c0819:PsiDirectoryNode" />
-              <item name="reference" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="csv-loader" type="b2602c69:ProjectViewProjectNode" />
-              <item name="csvloader" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="jsonANDxml" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -337,13 +292,12 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551076545406" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551147897364" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
@@ -673,10 +627,10 @@
     <option name="totallyTimeSpent" value="3609000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1680" height="951" extended-state="1" />
+    <frame x="118" y="23" width="1562" height="949" extended-state="1" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2991453" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27828947" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="3" />
@@ -686,7 +640,7 @@
       <window_info id="Learn" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.39464495" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.33488914" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39932886" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -1000,15 +954,73 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/jsonANDxml/LocalException/PageTitleException.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/jsonANDxml/LocalException/FFPandaException.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/jsonANDxml/LocalException/FFPandaException.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/jsonANDxml/LocalException/SCPandaException.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="14" column="29" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/jsonANDxml/util/OSMatcher.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1290">
+          <caret line="86" column="21" selection-start-line="86" selection-start-column="21" selection-end-line="86" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/csv/effCodePrastic/reference/SoftReferenceHouse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/csv/effCodePrastic/reference/SoftReferenceWhenIdle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="34" column="1" selection-start-line="34" selection-start-column="1" selection-end-line="34" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_192.jdk/Contents/Home/src.zip!/java/lang/ref/SoftReference.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="63" column="13" selection-start-line="63" selection-start-column="13" selection-end-line="63" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/jsonANDxml/util/TextSearchFile.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/jsonANDxml/util/SCJsonReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1215">
+          <caret line="90" column="40" selection-start-line="90" selection-start-column="40" selection-end-line="90" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/jsonANDxml/util/SCXmlUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="39" column="26" selection-start-line="39" selection-start-column="26" selection-end-line="39" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/jsonANDxml/util/operationItem.java">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/jsonANDxml/util/SCElementEntity.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -1020,93 +1032,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/jsonANDxml/util/operationItem.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/jsonANDxml/util/OSMatcher.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/jsonANDxml/util/SCXmlUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="39" column="26" selection-start-line="39" selection-start-column="26" selection-end-line="39" selection-end-column="26" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#817#842#0" expanded="true" />
-            <element signature="e#2282#2305#0" expanded="true" />
-            <element signature="e#5373#5388#0" expanded="true" />
-            <element signature="e#8067#8092#0" expanded="true" />
-            <element signature="e#8155#8180#0" expanded="true" />
-            <element signature="e#10316#10341#0" expanded="true" />
-            <element signature="e#10404#10429#0" expanded="true" />
-            <element signature="e#12058#12081#0" expanded="true" />
-            <element signature="e#12142#12165#0" expanded="true" />
-            <element signature="e#18657#18682#0" expanded="true" />
-            <element signature="e#21737#21762#0" expanded="true" />
-            <element signature="e#25271#25296#0" expanded="true" />
-            <element signature="e#28355#28380#0" expanded="true" />
-            <element signature="e#31658#31683#0" expanded="true" />
-            <element signature="e#34871#34896#0" expanded="true" />
-            <element signature="e#38215#38240#0" expanded="true" />
-            <element signature="e#58750#58765#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="86" column="21" selection-start-line="86" selection-start-column="21" selection-end-line="86" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/jsonANDxml/util/SCJsonReader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1319">
-          <caret line="90" column="40" selection-start-line="90" selection-start-column="40" selection-end-line="90" selection-end-column="40" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/jsonANDxml/util/TextSearchFile.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/jsonANDxml/util/SCPageXML2JSON.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="3" column="26" lean-forward="true" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
-          <folding>
-            <element signature="e#3357#5324#1" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_192.jdk/Contents/Home/src.zip!/java/lang/ref/SoftReference.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-442">
-          <caret line="63" column="13" selection-start-line="63" selection-start-column="13" selection-end-line="63" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/csv/effCodePrastic/reference/SoftReferenceHouse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="248">
-          <caret line="28" selection-start-line="28" selection-end-line="28" />
+        <state relative-caret-position="15">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#252#259#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/csv/effCodePrastic/reference/SoftReferenceWhenIdle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="34" column="1" lean-forward="true" selection-start-line="34" selection-start-column="1" selection-end-line="34" selection-end-column="1" />
-          <folding>
-            <element signature="e#254#261#0" expanded="true" />
           </folding>
         </state>
       </provider>

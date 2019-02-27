@@ -21,7 +21,7 @@ public class SCPageXML2JSON {
     public static void main(String[] args) throws Exception {
 
         //  File folder = new File(new String(System.getProperty("user.dir") + "/PageXML/and/"));// 默认目录
-        File folder = new File(new String("/Users/admin/Documents/FFPandaAuto-master/PageXML/IOS/"));// 默认目录
+        File folder = new File(new String("/Users/admin/Documents/APPAutoTestFrame/PageXML/IOS/"));// 默认目录
         String keyword = ".xml";
         if (!folder.exists()) {// 如果文件夹不存在
             System.out.println("目录不存在：" + folder.getAbsolutePath());
